@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanChinarelli&hide=contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JeanChinarelli&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JeanChinarelli&repo=JeanChinarelli)](https://github.com/anuraghazra/github-readme-stats)-->
